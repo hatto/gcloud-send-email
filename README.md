@@ -1,4 +1,4 @@
-# Send email from a Google Cloud function
+# Send email with Google Cloud functions
 
 simple function to send an email from contact form via mailgun API.
 
